@@ -15,18 +15,8 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="Helder" height="110" width="110" style="border-radius: 55px">
 
 </p>
-<h1></h1>
+<h1></h1>  
 
-<p align="center">
-  <kbd>
-    <img width="250" style="border-radius: 10px" height="500" src="https://static.wixstatic.com/media/d84544_7418867679834d14a452b556350e2977~mv2.gif" alt="Intro">
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <img width="250" style="border-radius: 5px" height="500" src="https://static.wixstatic.com/media/d84544_7418867679834d14a452b556350e2977~mv2.gif" alt="Register adopt">
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ## Porque **Desenvolver?**
 
